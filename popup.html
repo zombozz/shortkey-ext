@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>KeyCut</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <h2>Add a Shortcut</h2>
+  <div>
+    <label for="key">Key:</label>
+    <select id="key">
+      <option value="Ctrl+Shift+1">Ctrl+Shift+1</option>
+      <option value="Ctrl+Shift+2">Ctrl+Shift+2</option>
+      <option value="Ctrl+Shift+3">Ctrl+Shift+3</option>
+    </select>
+  </div>
+  <div>
+    <label for="site">Website URL:</label>
+    <input type="text" id="site" placeholder="https://example.com">
+  </div>
+  <button id="saveButton">Save</button>
+
+  <h3>Saved Shortcuts</h3>
+  <div id="shortcuts"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
