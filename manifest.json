@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "KeyCut",
+  "name": "ShortKey",
   "description": "Create keyboard shortcuts to open specific websites.",
   "version": "1.0",
   "permissions": [
