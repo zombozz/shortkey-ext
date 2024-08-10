@@ -1,6 +1,6 @@
 # ShortKey
 
-ShortKey is a Chrome extension designed to improve productivity by allowing users to set up custom keyboard shortcuts for opening specific websites. With ShortKey, you can easily manage and access your favorite websites with just a key combination.
+ShortKey is a Chrome extension designed to improve productivity by allowing users to set up keyboard shortcuts for opening specific websites. With ShortKey, you can easily manage and access your favorite websites with just a key combination.
 
 ## Features
 
